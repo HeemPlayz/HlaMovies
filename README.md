@@ -1,5 +1,5 @@
 ## Idea
-The website idea is about download and watching movies for  
+The website idea is about download and watching movies for free  
 This is the open source for the website, and the website has been improved many times  
 and this is the V1 of it
 
