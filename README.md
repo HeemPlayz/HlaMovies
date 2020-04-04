@@ -2,7 +2,7 @@
 =======================
 
 ## Idea
-The website idea is about download and watching movies for
+The website idea is about download and watching movies for\n
 This is the open source for the website, and the website has been improved many times
 and this is the V1 of it
 
@@ -17,5 +17,5 @@ and this is the V1 of it
 * EJS (server-side)
 
 ## Developers
-* HeemPlayz
+* HeemPlayz\n
 Discord: **HeemPlayz#8342**
