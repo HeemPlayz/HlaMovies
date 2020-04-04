@@ -16,3 +16,7 @@ and this is the V1 of it
 ## Developers
 * HeemPlayz  
 Discord: **HeemPlayz#8342**
+
+## License
+This project is under `MIT License`
+If you want to re-publish this project but you edited it, you must mention that's under my License and have to say my name
